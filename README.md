@@ -1,13 +1,13 @@
 # Jeju Doldam
 
-[Visit Source](http://www.earlyfont.com/portfolio/EARLYFONT_WATERMELON%20SALAD)
+[Visit Source](http://www.earlyfont.com/portfolio/EARLYFONT_JEJUDOLDAM)
 
 &nbsp;
 
 CSS
 
 ```
-font-family: 'Watermelon Salad';
+font-family: 'Jeju Doldam';
 ```
 
 &nbsp;
@@ -15,7 +15,7 @@ font-family: 'Watermelon Salad';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/WatermelonSalad/WatermelonSalad.css" type="text/css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/JejuDoldam/JejuDoldam.css" type="text/css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/WatermelonSalad/WatermelonSalad.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/JejuDoldam/JejuDoldam.css');
 ```
 
 &nbsp;
@@ -32,13 +32,13 @@ font-face
 
 ```
 @font-face {
-    font-family: 'Watermelon Salad';
+    font-family: 'Jeju Doldam';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/WatermelonSalad/WatermelonSalad.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/WatermelonSalad/WatermelonSalad.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/WatermelonSalad/WatermelonSalad.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/WatermelonSalad/WatermelonSalad.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/JejuDoldam/JejuDoldam.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/JejuDoldam/JejuDoldam.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/JejuDoldam/JejuDoldam.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/JejuDoldam/JejuDoldam.ttf') format('truetype');
 }
 ```
